@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="card_image">Image</string>
+
+    <string-array name="card_names">
+        <item>Terry Peta</item>
+        <item>Bryan Len</item>
+        <item>Fawn Harley</item>
+        <item>Den Lance</item>
+        <item>Jude Al</item>
+        <item>Clarissa Carmen</item>
+        <item>Eloise Greg</item>
+        <item>Alex Rena</item>
+        <item>Terry Peta</item>
+        <item>Rocky Davie</item>
+        <item>Cyril Spring</item>
+        <item>Boyce Mona</item>
+        <item>Jeremiah Hall</item>
+        <item>Florrie Louise</item>
+        <item>Donald Dulcie</item>
+        <item>Stewart Carson</item>
+        <item>Babs Kim</item>
+        <item>Randi Isadore</item>
+        <item>Hayden Todd</item>
+        <item>Emmanuel Tad</item>
+        <item>Mariel Annice</item>
+        <item>Anna Eliot</item>
+        <item>Ned Liam</item>
+        <item>Coretta Lionel</item>
+        <item>Lyle Iggy</item>
+        <item>Red Gilbert</item>
+        <item>Clarissa Carmen</item>
+        <item>Erick Harold</item>
+        <item>Rich Shell</item>
+        <item>Jason Kira</item>
+        <item>Rocky Davie</item>
+        <item>Stan Daren</item>
+        <item>Bobby Joey</item>
+        <item>Jackie Carly</item>
+        <item>Pamela Eileen</item>
+        <item>Elisa Imogene</item>
+    </string-array>
+</resources>

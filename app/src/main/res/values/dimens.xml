@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_divider">2dp</dimen>
+
+    <dimen name="offset_size">8dp</dimen>
+    <dimen name="mark_size">52dp</dimen>
+
+    <dimen name="card_width">128dp</dimen>
+    <dimen name="card_height">160dp</dimen>
+    
+    <integer name="anim_duration">1000</integer>
+</resources>
