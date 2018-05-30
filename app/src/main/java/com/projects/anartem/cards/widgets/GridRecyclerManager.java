@@ -189,8 +189,6 @@ public class GridRecyclerManager extends RecyclerView.LayoutManager {
                 addView(view);
                 measureChildWithMargins(view, 0, 0);
 
-
-
                 layoutDecorated(
                         view,
                         left,

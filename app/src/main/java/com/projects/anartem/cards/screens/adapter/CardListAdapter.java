@@ -39,7 +39,7 @@ public class CardListAdapter extends ListAdapter<Card, CardHolder> implements Ca
     @Override
     public void onBindViewHolder(@NonNull CardHolder holder, int position) {
         Card card = mCards.get(position);
-        holder.bind(card, mSelectionTracker.isSelected((long) card.getId()));
+        holder.bind(card, mSelectionTracker != null && mSelectionTracker.isSelected((long) card.getId()));
     }
 
     @Override
